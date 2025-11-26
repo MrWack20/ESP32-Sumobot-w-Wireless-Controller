@@ -1,0 +1,21 @@
+| **Materials**                                       | **Quantity (QTY)** |
+|-----------------------------------------------------|--------------------|
+| DC Motors 12V 178RPM and Motor Bracket (37mm)       | 2                  |
+| Rubber Wheel (65mm)                                 | 2                  |
+| Coupling Hexagonal Brass Connector (6mm)            | 2                  |
+| ESP32                                               | 2                  |
+| ESP32 Shield Expansion Board                        | 2                  |
+| L298N Motor Driver                                  | 1                  |
+| Analog Joystick                                     | 1                  |
+| TCRT5000 IR Sensor                                  | 2                  |
+| LM2596S DC-DC Buck Converter                        | 1                  |
+| Ultrasonic Sensors                                  | 2                  |
+| 18650 Li-ion battery                                | 4–6                |
+| 18650 Battery Holder 2 cell (Series)                | 1                  |
+| 18650 Battery Holder 4 cell (Series)                | 1                  |
+| Toggle Switch                                       | 2                  |
+| Metal Ball Caster                                   | 1                  |
+| Wires                                               | ~                  |
+| 3mm A3 Sintra Board (for body build)                | ~                  |
+| Industrial SuperGlue                                | ~                  |
+
